@@ -9,10 +9,6 @@ Also, this dateset contains a diverse set of academic, personal, and socioeconom
 
 Dataset link: https://www.kaggle.com/datasets/anassarfraz13/student-success-factors-and-insights
 
-# Data cleaning and Visulization
-For the data cleaning steps, I initially ensured that the missing information were filled by using imputation technique. I filled those data points with mean or median based on datatype. Secondly, I also ensured there were no duplicate rows present. And lastly,
-I calculated IQR ranges to help understand the outliers in the dataset. However I could not find critical outliers in the dataset apart from the student score itself. After that I used the cleaned data to create various plots to visualize and understand the dataset in depth.
-
 # Dataset Summary:
 
 Shape: (6607, 20)
